@@ -1,0 +1,10 @@
+{
+    "workbench.colorTheme": "GitHub Dark",
+    "window.zoomLevel": 1,
+    "security.allowedUNCHosts": [
+        "wsl.localhost"
+    ],
+    "javascript.updateImportsOnFileMove.enabled": "never",
+    "editor.fontFamily": "JetBrains Mono",
+    "editor.fontLigatures": true
+}
